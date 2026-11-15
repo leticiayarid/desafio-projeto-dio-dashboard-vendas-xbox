@@ -10,6 +10,7 @@ Desenvolver um dashboard interativo para consolidar e visualizar informações r
 
 Funcionalidades Implementadas:
 Indicadores (KPIs)
+
 O dashboard apresenta os seguintes indicadores estratégicos:
 
 - Valor total das vendas realizadas.
