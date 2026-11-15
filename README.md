@@ -1,3 +1,5 @@
+Dashboard de Vendas Xbox Game Pass
+
 Descrição do Projeto
 Este projeto foi desenvolvido como parte do desafio proposto pela DIO, com o objetivo de criar um Dashboard de Vendas no Excel capaz de transformar dados brutos em informações estratégicas por meio de indicadores visuais e análises interativas.
 A solução permite acompanhar o desempenho das assinaturas Xbox Game Pass, fornecendo métricas relevantes para análise de vendas, comportamento dos assinantes e geração de receita.
