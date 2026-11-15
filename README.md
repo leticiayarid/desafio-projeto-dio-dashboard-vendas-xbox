@@ -30,6 +30,7 @@ Interatividade
 - Navegação simplificada para exploração dos dados.
 
 Ferramentas e Recursos Utilizados
+
 Para o desenvolvimento do projeto foram utilizados recursos nativos do Microsoft Excel, incluindo:
 - Tabelas Dinâmicas;
 - Gráficos Dinâmicos;
