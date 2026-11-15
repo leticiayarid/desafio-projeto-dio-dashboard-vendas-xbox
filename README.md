@@ -65,5 +65,10 @@ O dashboard desenvolvido permite analisar rapidamente o desempenho das vendas po
 <img width="622" height="485" alt="image" src="https://github.com/user-attachments/assets/8742617d-da4e-41bc-a3e2-521576950cf4" />
 
 
+📚 Créditos
+Projeto desenvolvido como parte da trilha de estudos da DIO (Digital Innovation One).
+
+Agradecimento ao professor @felipeAguiarCode pelo conteúdo, direcionamento e compartilhamento de conhecimento durante a realização do desafio
+
 
 
