@@ -56,6 +56,7 @@ A análise foi realizada a partir de informações relacionadas às assinaturas 
 
 
 Resultado
+
 O dashboard desenvolvido permite analisar rapidamente o desempenho das vendas por meio de indicadores-chave, fornecendo uma visão consolidada sobre faturamento, ticket médio, quantidade de assinantes e receitas provenientes dos serviços adicionais do ecossistema Xbox Game Pass.
 
 <img width="623" height="487" alt="image" src="https://github.com/user-attachments/assets/a6f1d71f-5a03-44dc-935c-b5398107ce13" />
