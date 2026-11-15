@@ -41,6 +41,7 @@ Para o desenvolvimento do projeto foram utilizados recursos nativos do Microsoft
 - Formatação e design de dashboard para melhor visualização das informações.
 
 Estrutura da Base de Dados
+
 A análise foi realizada a partir de informações relacionadas às assinaturas Xbox Game Pass, contendo dados como:
 - Identificação do assinante;
 - Plano contratado;
