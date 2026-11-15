@@ -7,7 +7,8 @@ A solução permite acompanhar o desempenho das assinaturas Xbox Game Pass, forn
 
 Objetivo
 Desenvolver um dashboard interativo para consolidar e visualizar informações relacionadas às assinaturas do Xbox Game Pass, facilitando a análise dos dados e apoiando a tomada de decisões baseada em indicadores de desempenho.
-Funcionalidades Implementadas
+
+Funcionalidades Implementadas:
 Indicadores (KPIs)
 O dashboard apresenta os seguintes indicadores estratégicos:
 
